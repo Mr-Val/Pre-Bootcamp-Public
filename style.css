@@ -1,0 +1,18 @@
+* {
+    background-color: dodgerblue;
+}
+
+img {
+    height: 200px;
+    width: 400px;
+}
+
+h1 {
+    cursor: pointer;
+    display: inline-block;
+}
+
+img {
+    border-radius: 50%;
+    border: 2px solid black;
+}
